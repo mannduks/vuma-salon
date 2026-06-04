@@ -4,6 +4,8 @@
 
 @layer base {
   :root {
+    --font-sans: system-ui, Arial, sans-serif;
+    --font-display: Georgia, serif;
     --background: 38 44% 97%;
     --foreground: 155 18% 13%;
     --card: 0 0% 100%;
